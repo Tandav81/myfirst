@@ -10,3 +10,10 @@ first attempt with git
 nico
 salut les wilders
 >>>>>>> 66eafe5a256ce7a76a96cf28fbe17142f2fd46d6
+
+
+Etapes "Terminal" :
+
+git add "file" 
+git commit -m "commit" 
+git push origin master
